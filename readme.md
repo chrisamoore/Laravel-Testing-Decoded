@@ -1,13 +1,20 @@
-This empty project is exclusively for reporting typos and errors in my book, "[Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)."
+#TL;DR: 
+##My Email: chris@kareer.me 
+##Coupon code plz. 
+<br>
 
-If you come across an issue while reading the book, please [visit this page](https://github.com/JeffreyWay/Laravel-Testing-Decoded/issues), click "New Issue," and let me know so that I may fix it as soon as possible! :)
+###Jeff I hit you up on twitter, and you had agreed to a coupon code for this awesome book which I am reading. 
+<br>
+### My presentation is tonight, and I have around 30 - 35 RSVP's. I the icing would really be awesome to give coupons from the power houses in the PHP community (Yourself, Taylor, Dayle, etc. if there were more )
+<br>
+###Anyway, I tried again on twitter to contact you after you agreed, but I had no response, being the tenatious fellow that I am, I figured this may git your attention? 
+<br>
 
-![Laravel Testing Decoded](https://s3.amazonaws.com/titlepages.leanpub.com/laravel-testing-decoded/bookpage?1365480102)
+Very Respectfully, 
+<br>
+Christopher A. Moore 
+<br>
+chris@kareer.me
+<br>
+858-349-3077
 
-
-## Book Updates
-
-- **June 5, 2013:** Added new chapter: *Contributing to Laravel Using TDD*
-- **June 3, 2013:** Updated *Chapter 8: Testing Controllers* to not use `Input::replace()`
-- **May 29, 2013:** Added new section to Testing Models chapter: *Simple Query Methods*
-- **May 29, 2013:** Added new question to FAQ chapter: *I Prefer Using Underscores For Test Names. Is That Okay?*
